@@ -12,3 +12,7 @@ Realtime Video Call (Zoom Clone) using PeerJS and Socket.io
 
 
 ### Special Appearance: [Hritik Rai](https://github.com/Vector26)
+
+## For testing
+
+Change ```port: 443``` to ```port: 9000``` in [script.js](https://github.com/devptyagi/ZoomVideoCall-NodeJS/blob/490552c23eeb95a5960911a3bfdcaac278b3ce47/public/script.js#L9)
